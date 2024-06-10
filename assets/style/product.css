@@ -6,7 +6,7 @@
 }
 
 .productCardFlag {
-    background: hsl(0, 0%, 7%);
+    background: hsl(110, 75%, 42%);
     width: 40%;
 }
 
@@ -47,7 +47,7 @@
 
 .productInfo hr {
     display: inline-block;
-    border: 0 solid hsl(0, 0%, 7%);
+    border: 0 solid hsl(138, 83%, 40%);
     border-bottom-width: 1px;
     margin: 0.5em 0;
     vertical-align: middle;
